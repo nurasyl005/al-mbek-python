@@ -1,1 +1,1 @@
-print ("Hello, Alimbek")
+print ("Hello, Alimbek Nurasyl")
