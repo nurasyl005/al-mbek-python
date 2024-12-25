@@ -1,1 +1,1 @@
-prınt("Hello")
+alimbek python
