@@ -8,7 +8,7 @@ if name == "John":
 else:
     print("There is no such name")
 
-array = list(input("Enter a numeric array (comma-separated): ").split(' '))
+array = list(map(int, input("Enter a numeric array separated by a space: ").split(' ')))
 print("multiples of a 3:")
 for i in array:
     if i % 3 == 0:
