@@ -13,3 +13,4 @@ print("multiples of a 3:")
 for i in array:
     if i % 3 == 0:
         print(i)
+        
